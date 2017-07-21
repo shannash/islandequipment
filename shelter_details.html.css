@@ -1,0 +1,71 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+html, body { min-height: 100% } 
+		a.wsp20425150{ color:#FFFFFF; text-decoration: underline} 
+		a.wsp20425150:visited{ color:#FFFFFF; text-decoration: underline} 
+		a.wsp20425150:active{ color:#FFFFFF; text-decoration: underline} 
+		a.wsp20425150:hover{ color:#E3B4F3; text-decoration: underline} 
+		a.wsp1de1103f{ color:#FFFFFF; text-decoration: underline} 
+		a.wsp1de1103f:visited{ color:#FFFFFF; text-decoration: underline} 
+		a.wsp1de1103f:active{ color:#FFFFFF; text-decoration: underline} 
+		a.wsp1de1103f:hover{ color:#E3B4F3; text-decoration: underline} 
+#gallery_60f16738 div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
+#gallery_60f16738 div.galleryimgcontainer img {  width: 100%; border: 1px solid #A0A0A0; border: 1px solid #A0A0A0;  } 
+#menu_644008b2 a { text-decoration: none; }
+#menu_644008b2_pane { background-color: #161517; border: 1px solid #10103E; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 10px #888;}
+#menu_644008b2_hr { background-color: #10103E; height: 1px; border: none; }
+#menu_644008b2_entry { padding-left: 10px; padding-right: 10px; }
+#menu_644008b2_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_644008b2_entry:hover span { color:#FFFFFF !important; }
+		.menu_644008b2_mainMenuEntry { text-align: center; }
+		.menu_644008b2_mainMenuEntry:hover {	background-color:#FFFF80; }
+		.menu_644008b2_mainMenuEntry:hover span {	color:#000000 !important; }
+		#menu_644008b2 .mobileEntry { display: none; } 
+		#menu_644008b2 .normalEntry { display: block; } 
+body { background-color:#AFAFFB; background: linear-gradient(to bottom, #060629, #AFAFFB); background-repeat: no-repeat; border: 10px solid #404040; padding:0;  margin: 0; }
+.wsp1 { text-align:left; }
+#container_318dc2aa { border-radius: 15px; position:absolute; left:2%; top:2%; width:110%; min-height:150px; background-color:rgba(0, 0, 0, 0.098039);  }
+#container_318dc2aa_padding { margin: 10px; display: block;  }
+#heading_423704d1 { border-radius: 15px; position:absolute; left:1%; top:3%; width:513px; background-color:#323033; background: linear-gradient(to bottom,#323033, #191819 50%, #141314 50%, #0F0E0F);  }
+.wsp2 { font-size:32pt; font-family:'Eras Bold ITC'; color:#0000FF; font-style:italic; font-weight:bold; text-shadow: 5px 2px 3px #FFFF00;  }
+#text_6b95ce8a { position:absolute; left:8%; top:92%; width:284px; height:28px; background:none;  }
+.wsp3 { font-size:10pt; font-family:Gabriola; color:#FFFF80; font-style:italic; font-weight:bold; text-shadow: 2px 2px 2px #0000FF;  }
+.wsp4 { font-size:18pt; font-family:'Viner Hand ITC'; color:#FFFF80; text-shadow: 3px 3px 3px #000000;  }
+.wsp5 { font-size:18pt; font-family:'Viner Hand ITC'; color:#FFFF80; font-weight:bold; text-shadow: 3px 3px 3px #000000;  }
+#gallery_60f16738 { overflow:hidden; box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:150px;  }
+#menu_644008b2 { position:absolute; left:19%; top:36%; width:537px; height:19px; text-align:left; background:none;  }
+.wsp6 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.wsp7 { position:absolute; width:68px; height:19px; left:10px;  }
+.wsp8 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
+.wsp9 { font-size:10pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  white-space: nowrap; }
+.wsp10 { position:absolute; width:125px; height:19px; left:10px;  }
+.wsp11 { font-size:11pt; font-family:'High Tower Text'; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  white-space: nowrap; }
+.wsp12 { position:absolute; width:108px; height:19px; left:135px;  }
+.wsp13 { position:absolute; width:135px; height:19px; left:243px;  }
+.wsp14 { position:absolute; width:75px; height:19px; left:378px;  }
+.wsp15 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:19px;  }
+.wsp16 { font-size:12pt; font-family:'High Tower Text'; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  white-space: nowrap; }
+.wsp17 { position:absolute; width:30px; height:19px; left:78px;  }
+.wsp18 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:0px;  }
+.wsp19 { position:absolute; width:30px; height:19px; left:453px;  }
+.wsp20 { position:absolute; width:30px; height:19px; left:483px;  }
+.wsp21 { position:absolute; width:25px; height:19px; left:513px;  }
+.wsp22 { font-size:11pt; font-family:'High Tower Text'; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
+.wsp23 { position:absolute; width:25px; height:19px; left:538px;  }
+.wsp24 { font-size:10pt; font-family:'High Tower Text'; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  white-space: nowrap; }
+.wsp25 { font-size:10pt; font-family:'High Tower Text'; color:#FFFFFF; font-style:italic; font-weight:bold; text-shadow: 2px 2px 2px #000000;  white-space: nowrap; }
+.wsp26 { font-size:10pt; font-family:'High Tower Text'; color:#FFFFFF; font-style:italic; font-weight:bold;  white-space: nowrap; }
+#text_1f92a15a { position:absolute; left:56%; top:13%; background:none;  }
+.wsp27 { font-size:12pt; font-family:'Comic Sans MS'; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  }
+#form_26fc0282 { vertical-align: top; position:relative; display: inline-block; width:75%; background:none;  }
+#form_26fc0282_padding { margin: 10px; display: block;  }
+#combo_31edb609 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:120px; height:25px; background-color:#FFFFFF; border: 1px solid #A0A0A0; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#img_4c4ecec7 { position:absolute; left:2%; top:31%; width:649px; height:90px; background:none;  }
+.wsp28 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+@media only screen and (max-width: 480px)
+{
+		#menu_644008b2 { width:100px;  }
+}
